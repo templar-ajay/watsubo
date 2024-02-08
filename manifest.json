@@ -1,0 +1,43 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icon128.png",
+         "16": "icon16.png",
+         "32": "icon32.png",
+         "48": "icon48.png",
+         "64": "icon64.png"
+      }
+   },
+   "author": "Jose Luis Perales",
+   "background": {
+      "service_worker": "background-min.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "css": [ "main-min.css" ],
+      "js": [ "main-min.js" ],
+      "matches": [ "https://web.whatsapp.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_txt_chrome_extension_description__",
+   "differential_fingerprint": "1.983e1d4d8ffe37ae76a6c7c2082b8e4896183daa6d63a1986437d1640b077821",
+   "host_permissions": [ "https://wasubo.com/*", "https://wasubot.com/*", "https://*.whatsapp.com/*" ],
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "32": "icon32.png",
+      "48": "icon48.png",
+      "64": "icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwiMYJFVTtMrKczgn4OWPkf3XyQw6LjPlpotNG8oEx4FyYi6ZBMd7oKGYOPHbXn8b7kwlK8L+8NRD4Ff2EK1ubwzppQB5mFKmt3j6tWG1o8AZI/ItyQAviJ6Tj2RvfPwoB7XQh8irkB0G58tLvfBqI0k+jLUIDzIAri4fSfjXJD/kvQA1crPBYBsg5ydpA0+3BX17LZbey5ctq6HTk2DabuKX24Gc1ZAxfQqNXayZKcAQJFzBD0pJ0P+D3+X++6TjYIUJhlN8F+oa7pzR21ML6nLKICSIc0v0Ek2F52eE3Eiam2rCbYRMSfr9Rs2oneMkJ4ejYm4AFb13T7Pr5JfFJwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_txt_chrome_extension_name__",
+   "permissions": [ "notifications", "storage", "unlimitedStorage", "activeTab", "identity", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.18",
+   "web_accessible_resources": [ {
+      "matches": [ "https://web.whatsapp.com/*" ],
+      "resources": [ "assets/icon.png", "assets/whatsapp-background-light.jpg", "assets/attachment-icon.png", "assets/google_drive_logo.png", "assets/icon.png", "assets/wasubo-logo.png", "assets/whatsapp-background-transparent.png", "src/wacon-min.js", "src/or-min.js" ]
+   } ]
+}
