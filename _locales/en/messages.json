@@ -1,0 +1,591 @@
+{
+  "txt_chrome_extension_name": { "message": "Wasubot chatbot sender" },
+  "txt_chrome_extension_description": {
+    "message": "Wasubo web Plus Chatbot, autoresponder, fast responses chat bot"
+  },
+  "txt_WasuBOT": { "message": "Wasubo Web Plus" },
+  "lgn_wasubo_tab": { "message": "Wasubo Web Plus" },
+  "lgn_mensajeria_tab": { "message": "Messaging" },
+  "lgn_chatbot_tab": { "message": "ChatBot" },
+  "txt_ChatBot_y_Auto_Responder": { "message": "ChatBot & Auto Responder" },
+  "lgn_grupos_tab": { "message": "Groups" },
+  "lgn_utiles_tab": { "message": "Useful" },
+  "lgn_reportes_tab": { "message": "Reports" },
+  "lgn_chat_ayuda_text": { "message": "Help chat" },
+  "lgn_turorial_text": { "message": "Tutorial" },
+  "lgn_envio_de_mensajes_text": { "message": "Sending messages" },
+  "lgn_prueba_mensaje_text": { "message": "Test the message before sending:" },
+  "txt_browser_action_title": { "message": "Wasubo Web Plus" },
+  "txt_hazte_pro": { "message": "Become PRO" },
+  "txt_enviar_a_filas": { "message": "Send to rows" },
+  "txt_Wasubo": { "message": "Wasubo" },
+  "txt_195": { "message": "\n" },
+  "txt_my_phone": { "message": "573170444222" },
+  "txt_remainingmessagecount": { "message": "120" },
+  "Mensajes_restantes": { "message": "Mensajes restantes" },
+  "url_default": { "message": "https://wasubo.com/bot_chrome_v2/" },
+  "bgColor": { "message": "#055200" },
+
+  "Cambiar_plantillas": { "message": "Change templates" },
+  "Buscar_el_nombre_de_la_plantilla": { "message": "Find the template name" },
+  "Account": { "message": "Account" },
+  "Tipo_de_licencia": { "message": "Type of license" },
+  "Valido_hasta": { "message": "Valid until" },
+  "Borrar": { "message": "Erase" },
+  "Editar": { "message": "Edit" },
+  "Duplicar": { "message": "Double" },
+  "Status": { "message": "Status" },
+  "Para_siempre": { "message": "Forever" },
+  "Ver_estadisticas_detalladas": { "message": "See detailed statistics" },
+  "Pagina_principal": { "message": "Homepage" },
+  "Pagina_que_se_cargara_cuando_abra_wasa": {
+    "message": "The extension page that will open for the first time when opening the WhatsApp page"
+  },
+  "Estadisticas_uso_funciones_p": { "message": " Feature Usage Statistics" },
+  "Mensajeria_config": { "message": "Messages" },
+  "Caracter_de_separacion": { "message": "Separation character" },
+  "txt_1": {
+    "message": "Specify the separator character for broadcast contact data"
+  },
+  "txt_2": { "message": "Blacklist" },
+  "txt_3": {
+    "message": "Create a list of numbers to skip when sending a transmission, line, number OR skip contacts in a list"
+  },
+  "txt_4": { "message": "Other features" },
+  "txt_5": { "message": "Privacy" },
+  "txt_6": { "message": "Hide sensitive parts in WhatsApp Web" },
+  "txt_7": { "message": "Device data" },
+  "txt_8": { "message": "Backup and restore" },
+  "txt_9": {
+    "message": "Backup and restore template, auto reply and data list for backup and transfer to other devices"
+  },
+  "txt_10": { "message": "Backup Settings" },
+  "txt_11": { "message": "Statistics" },
+  "txt_12": { "message": "Of" },
+  "txt_13": { "message": "Until " },
+  "txt_14": { "message": "Restore Backup" },
+  "txt_15": { "message": "Last backup" },
+  "txt_16": { "message": "File size" },
+  "txt_17": { "message": "Are you sure you want to delete this backup?" },
+  "txt_18": { "message": "Delete backups" },
+  "txt_19": { "message": "Backup deleted successfully" },
+  "txt_20": { "message": "Error deleting backup" },
+  "txt_21": {
+    "message": "The report will appear after sending the broadcast message."
+  },
+  "txt_22": { "message": "No reports yet" },
+  "txt_23": { "message": "Finish" },
+  "txt_24": { "message": " Message" },
+  "txt_25": { "message": " Contact/s" },
+  "txt_26": { "message": "Personal" },
+  "txt_27": { "message": "Group" },
+  "txt_28": { "message": "Search by broadcast title" },
+  "txt_29": { "message": "Broadcast" },
+  "txt_30": { "message": "Relay" },
+  "txt_31": { "message": "You are transmitting, please wait for it to finish" },
+  "txt_32": { "message": "MESSAGE" },
+  "txt_33": { "message": "failed" },
+  "txt_34": { "message": "Jumped" },
+  "txt_35": { "message": "It has not been sent" },
+  "txt_36": { "message": "Sent" },
+  "txt_37": { "message": "Delivery status" },
+  "txt_38": { "message": "Last delivery" },
+  "txt_39": { "message": "First delivery" },
+  "txt_40": { "message": "Number of messages" },
+  "txt_41": { "message": "Number of contacts" },
+  "txt_42": { "message": "Tipe Broadcast" },
+  "txt_43": { "message": "AAAAAAAAAAAAAAAAAAA" },
+  "txt_44": { "message": "Title" },
+  "txt_45": { "message": "Delivery" },
+  "txt_46": { "message": "Details" },
+  "txt_47": { "message": "Detail report" },
+  "txt_48": { "message": "Later" },
+  "txt_49": { "message": "Restore now" },
+  "txt_50": { "message": "Backup restored successfully" },
+  "txt_51": { "message": "Restore backups" },
+  "txt_52": { "message": "Copia de seguridad restaurada con éxito" },
+  "txt_53": { "message": "Restore" },
+  "txt_54": { "message": "Blank Backups" },
+  "txt_55": { "message": "La copia de seguridad que hiciste aparecerá aquí" },
+  "txt_56": { "message": "Configuración de copia de seguridad" },
+  "txt_57": { "message": "Última copia de seguridad" },
+  "txt_58": { "message": "File size" },
+  "txt_59": { "message": "All chats" },
+  "txt_60": { "message": "AAAAAAAAAAAAAAAA" },
+  "txt_61": { "message": "AAAAAAAAAAAAAAAAAAAAA" },
+  "txt_62": { "message": "Delete automatic replies" },
+  "txt_63": {
+    "message": "Are you sure you want to remove this autoresponder?"
+  },
+  "txt_64": { "message": "Auto reply has been successfully removed" },
+  "txt_65": { "message": "Erase" },
+  "txt_66": { "message": "Successful duplicate auto reply" },
+  "txt_67": { "message": "Double" },
+  "txt_68": { "message": "Erase" },
+  "txt_69": { "message": "Preview" },
+  "txt_70": { "message": "Find emojis" },
+  "txt_71": { "message": "LAST USED" },
+  "txt_72": { "message": "Write the caption of the photo you want to send" },
+  "txt_73": { "message": "Save" },
+  "txt_74": { "message": "Edit List" },
+  "txt_75": { "message": "Description" },
+  "txt_76": { "message": "SECTIONS" },
+  "txt_77": { "message": "New Section" },
+  "txt_78": { "message": " Title" },
+  "txt_79": { "message": "Description" },
+  "txt_80": { "message": "Add Section" },
+  "txt_81": { "message": "Add Row" },
+  "txt_82": { "message": "Double" },
+  "txt_83": { "message": "Choose a type" },
+  "txt_84": { "message": "Text button" },
+  "txt_85": { "message": "Edit text messages" },
+  "txt_86": { "message": "Add Video / Image (Max. 16MB)" },
+  "txt_87": { "message": "Write the message you want to send" },
+  "txt_88": { "message": "TYPE" },
+  "txt_89": { "message": "Add button" },
+  "txt_90": {
+    "message": "Upgrade your license to use the Button Message feature"
+  },
+  "txt_91": { "message": "Click to edit this message" },
+  "txt_91_1": { "message": "Hello {{1}}\n\nClick to edit this message" },
+  "txt_92": { "message": "File" },
+  "txt_93": {
+    "message": "Upgrade your license to use the List Message feature"
+  },
+  "txt_94": { "message": "List" },
+  "txt_94_1": { "message": "Lists" },
+  "txt_95": { "message": "Text" },
+  "txt_96": { "message": "Insert Template" },
+  "txt_97": { "message": "Auto reply changed successfully!" },
+  "txt_98": { "message": "Auto reply created successfully!" },
+  "txt_99": { "message": "Change auto reply" },
+  "txt_100": { "message": "Create automatic responses" },
+  "txt_101": { "message": "General" },
+  "txt_102": { "message": "Setting" },
+  "txt_103": { "message": "ACTIVE" },
+  "txt_104": { "message": "TITLE" },
+  "txt_105": {
+    "message": "Label this autoresponder so it's easy to remember."
+  },
+  "txt_106": { "message": "Give it a title" },
+  "txt_107": { "message": "TALK TYPE" },
+  "txt_108": { "message": "All" },
+  "txt_109": { "message": "AAAAAAAAAAAAAAAAAAAAAAA" },
+  "txt_110": { "message": "AAAAAAAAAAAAAAAAAAA" },
+  "txt_111": { "message": "Delay" },
+  "txt_112": {
+    "message": "Give a delay to run this autoresponder (in seconds)"
+  },
+  "txt_113": { "message": "Delete automatic replies" },
+  "txt_114": { "message": "Contains words" },
+  "txt_115": { "message": "Word is equal" },
+  "txt_116": { "message": "Start with" },
+  "txt_117": { "message": "Ends with" },
+  "txt_118": { "message": "CONDITIONS" },
+  "txt_119": { "message": "Conditions to check with incoming messages" },
+  "txt_120": { "message": "Add condition" },
+  "txt_121": { "message": "Change conditions" },
+  "txt_122": { "message": "Condition type" },
+  "txt_123": { "message": "Select Conditions" },
+  "txt_124": { "message": "ACTION" },
+  "txt_125": { "message": "do something now" },
+  "txt_126": { "message": "one of the conditions" },
+  "txt_127": { "message": " above are fulfilled" },
+  "txt_128": { "message": "Add action" },
+  "txt_129": { "message": "change action" },
+  "txt_130": { "message": "Save to" },
+  "txt_131": { "message": "Send" },
+  "txt_132": { "message": "messages" },
+  "txt_133": { "message": "Reply message" },
+  "txt_134": { "message": "Add to the list" },
+
+  "txt_135": { "message": "Action Type" },
+  "txt_136": { "message": "Select action" },
+  "txt_137": { "message": "Message" },
+  "txt_138": { "message": "Select lists" },
+  "txt_139": { "message": "Contact/s" },
+  "txt_140": { "message": "Manuals only" },
+  "txt_141": { "message": "Every minute" },
+  "txt_142": { "message": "Every day" },
+  "txt_143": { "message": "Every week" },
+  "txt_144": { "message": "Every month" },
+  "txt_145": { "message": "Backup" },
+
+  "txt_146": {
+    "message": "Backup and restore data with files on local device storage"
+  },
+  "txt_147": { "message": "Restore" },
+  "txt_148": { "message": "Data restored successfully" },
+  "txt_149": { "message": "Data backed up successfully" },
+  "txt_150": { "message": "Backup" },
+  "txt_151": { "message": "Homepage" },
+  "txt_152": { "message": "Comma ( , )" },
+  "txt_153": { "message": "Semicolon ( ; )" },
+  "txt_154": { "message": "Vertical Bar ( | )" },
+  "txt_155": { "message": "Separator character" },
+
+  "txt_156": { "message": "Choose from the list" },
+  "txt_157": { "message": "The delay cannot be less" },
+  "txt_158": { "message": "Invalid number" },
+  "txt_159": { "message": "Pause sending between contacts" },
+
+  "txt_160": {
+    "message": "The delay between contacts when sending a transmission"
+  },
+  "txt_161": { "message": "Min (seconds)" },
+  "txt_162": { "message": "Max (seconds)" },
+  "txt_163": { "message": "Pause delivery between messages" },
+  "txt_164": {
+    "message": "The delay between messages when sending a transmission."
+  },
+  "txt_165": { "message": "Enable pause between messages" },
+  "txt_166": { "message": "Contact Name Blur" },
+  "txt_167": { "message": "Recent Message Blur" },
+  "txt_168": { "message": "Blur Contact Photo" },
+  "txt_169": { "message": "Blur chat messages" },
+  "txt_170": { "message": "Search for a contact or group name" },
+  "txt_171": { "message": "Import" },
+  "txt_172": { "message": "Reset" },
+  "txt_173": { "message": "Choose all" },
+  "txt_174": {
+    "message": "Found empty or inconsistent metadata, all empty metadata will be replaced with empty text, continue?"
+  },
+  "txt_175": { "message": "Stream Title (optional)" },
+  "txt_176": { "message": "Used to name the Broadcast Report" },
+  "txt_177": { "message": "Give it a title" },
+  "txt_178": { "message": "Target" },
+  "txt_179": { "message": "Import contacts" },
+  "txt_180": { "message": "Contact Name" },
+  "txt_181": { "message": "Message" },
+  "txt_182": { "message": "Preview" },
+  "txt_183": { "message": "Broadcast" },
+  "txt_184": { "message": "Delivery Schedule" },
+
+  "txt_185": { "message": "Calendar" },
+  "txt_186": {
+    "message": "This feature is only available for paid license accounts"
+  },
+  "txt_187": { "message": "Find the group name" },
+  "txt_188": { "message": "Message pause settings" },
+  "txt_189": { "message": "Pause Settings" },
+  "txt_190": { "message": "Destination cannot be empty" },
+  "txt_191": { "message": "No separator character found" },
+  "txt_192": { "message": "Destination name cannot be empty" },
+  "txt_193": { "message": "Target number cannot be empty" },
+  "txt_194": { "message": "Myself" },
+  "txt_196": {
+    "message": "Test the message you want to convey to a target of your choice"
+  },
+  "txt_197": { "message": "573170444222, destination name" },
+  "txt_198": { "message": "waiting" },
+  "txt_199": { "message": "Sending" },
+  "txt_200": { "message": " missed" },
+  "txt_201": { "message": "Message Sent" },
+  "txt_202": { "message": "AAAAAAAAAAAAAAAAAAAA" },
+  "txt_203": { "message": "The message could not be sent" },
+  "txt_204": { "message": "Sending message" },
+  "txt_205": { "message": "The message is still in the queue" },
+  "txt_206": { "message": "Pause" },
+  "txt_207": { "message": "Resume" },
+  "txt_208": { "message": "Reset streams" },
+  "txt_209": { "message": "New transmissions" },
+  "txt_210": { "message": "Are you sure you want to start a new stream?" },
+  "txt_211": {
+    "message": "The stream is running, are you sure you want to start a new stream?"
+  },
+  "txt_212": { "message": "0 seconds" },
+  "txt_213": { "message": "Begin streaming on " },
+  "txt_214": { "message": "Reset Form" },
+
+  "txt_215": {
+    "message": "Are you sure you want to reset the broadcast form?"
+  },
+  "txt_216": { "message": "Delete list" },
+  "txt_217": { "message": "Are you sure you want to delete this list?" },
+  "txt_218": { "message": "List deleted successfully" },
+  "txt_219": { "message": "Successfully duplicated list" },
+  "txt_220": { "message": "Create lists" },
+  "txt_221": { "message": "List of changes" },
+  "txt_222": { "message": "Find WhatsApp name or number" },
+  "txt_223": { "message": "Showing " },
+  "txt_224": { "message": "from" },
+  "txt_225": { "message": " contacts" },
+  "txt_226": { "message": "No contacts yet" },
+  "txt_227": { "message": "Add contact to " },
+  "txt_228": { "message": "Select font" },
+  "txt_229": { "message": "Import" },
+  "txt_230": { "message": "Export" },
+  "txt_231": { "message": "Select contact source to import" },
+  "txt_232": { "message": "Import Contacts" },
+  "txt_233": { "message": "Label / Contact / Group" },
+  "txt_234": { "message": "Error importing contacts, incorrect format" },
+  "txt_235": { "message": "imported successfully" },
+  "txt_236": { "message": "Contacts " },
+  "txt_237": { "message": "Upload File CSV" },
+  "txt_238": { "message": "Change contact" },
+  "txt_239": { "message": "Open Chats" },
+  "txt_240": { "message": "Delete list" },
+  "txt_241": { "message": "Are you sure you want to delete this list?" },
+  "txt_242": { "message": "Name" },
+
+  "txt_243": { "message": "Contact Name" },
+  "txt_244": { "message": "WhatsApp Number" },
+  "txt_245": {
+    "message": "No metadata available. You can add metadata in List settings"
+  },
+  "txt_246": { "message": "Metadata name cannot be empty" },
+  "txt_247": { "message": "List changed successfully" },
+  "txt_248": { "message": "List created successfully!" },
+  "txt_249": { "message": "List of changes" },
+  "txt_250": { "message": "Create lists" },
+  "txt_251": { "message": "Description" },
+  "txt_252": { "message": " (Optional)" },
+  "txt_253": { "message": "Give a description" },
+  "txt_254": { "message": "Add Metadata" },
+  "txt_255": { "message": "photo profile of " },
+  "txt_256": { "message": "Connected" },
+  "txt_257": {
+    "message": "Integration of donor contacts with your WhatsApp contacts"
+  },
+  "txt_258": { "message": "Connect" },
+  "txt_259": { "message": "Disconnect" },
+  "txt_260": {
+    "message": "Click on the chat room on the left to display profile information"
+  },
+  "txt_261": { "message": "Profile" },
+  "txt_262": { "message": "Change tags" },
+  "txt_263": { "message": "See notes" },
+  "txt_264": { "message": "View Activity" },
+  "txt_265": { "message": "Profile not found" },
+  "txt_266": { "message": "Add tags to contacts" },
+  "txt_267": { "message": "Invalid email" },
+  "txt_268": { "message": "Please enter password" },
+  "txt_269": { "message": "Delete transmission reports" },
+  "txt_270": {
+    "message": "Are you sure you want to delete this transmission report?"
+  },
+  "txt_271": { "message": "Broadcast message sent" },
+  "txt_272": { "message": "Broadcast destination sent" },
+  "txt_273": { "message": "Auto reply lost" },
+  "txt_274": { "message": "Are you sure you want to delete this template?" },
+  "txt_275": { "message": "copy" },
+  "txt_276": { "message": "Successfully duplicated template" },
+  "txt_277": { "message": "Create a new template" },
+  "txt_278": { "message": "Search by title" },
+
+  "txt_279": { "message": "Blank templates" },
+  "txt_281": {
+    "message": "Create a template just once and you can use it for broadcast, *autoreply* and more"
+  },
+  "txt_282": { "message": "Create a new template" },
+  "txt_283": { "message": "Create templates" },
+  "txt_284": { "message": "Search by title" },
+  "txt_285": { "message": "Chat type" },
+  "txt_286": { "message": "Active" },
+  "txt_287": { "message": "Inactive" },
+  "txt_288": { "message": " Condition" },
+  "txt_289": { "message": "Actions" },
+  "txt_290": { "message": "Blank auto reply" },
+  "txt_291": {
+    "message": "Respond to chats automatically with specific conditions"
+  },
+  "txt_292": { "message": "Create automatic replies" },
+  "txt_293": { "message": "Search by list of names" },
+  "txt_294": { "message": "No lists" },
+  "txt_295": {
+    "message": "Save the customer's WhatsApp number to the specified category"
+  },
+  "txt_296": { "message": "Number" },
+  "txt_297": { "message": "Upgrade" },
+  "txt_298": { "message": "Extend" },
+  "txt_299": { "message": "Statistics" },
+  "txt_300": { "message": " message" },
+  "txt_301": { "message": "active" },
+  "txt_302": { "message": "inactive" },
+  "txt_303": {
+    "message": "Are you sure you want to remove this autoresponder?"
+  },
+  "txt_304": { "message": "Clear Report" },
+  "txt_305": { "message": "Are you sure you want to delete all reports?" },
+  "txt_306": { "message": "Message cannot be empty" },
+  "txt_307": { "message": "Title cannot be empty" },
+  "txt_308": { "message": "Text cannot be empty" },
+  "txt_309": { "message": "Sended " },
+  "txt_310": { "message": " messages dof " },
+  "txt_311": { "message": " messages" },
+  "txt_312": { "message": "You already use " },
+  "txt_313": { "message": "Send fast reply" },
+  "txt_314": { "message": "Footer" },
+  "txt_315": { "message": "Button Text" },
+  "txt_316": { "message": "Section" },
+  "txt_317": { "message": "Row" },
+  "txt_318": { "message": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" },
+  "txt_319": { "message": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" },
+  "txt_320": { "message": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" },
+
+  "Plan": { "message": "Plan" },
+
+  "txt_reset": { "message": "Reset" },
+  "txt_desde": { "message": "from" },
+  "txt_hasta": { "message": "until" },
+  "txt_MENSAJE": { "message": "MESSAGE" },
+  "txt_importar_numeros": { "message": "Import Numbers" },
+  "txt_subir_excel": { "message": "Upload Excel" },
+  "txt_numero_para_pruebas": { "message": "Number for tests" },
+  "txt_agregar": { "message": "Add" },
+  "txt_agregar_numero": { "message": "Add number" },
+  "txt_humanizar_envios": { "message": "Humanize shipments" },
+  "txt_humaniza_tiempos_de_envios": { "message": "human shipping times" },
+  "txt_tiempos_de_envios": { "message": "Shipping times" },
+  "txt_intervalo_tiempo": { "message": "Interval of time" },
+  "txt_Segundos": { "message": "Seconds" },
+  "txt_dividir_en_lotes": { "message": "Divide into batches" },
+  "txt_Lotes": { "message": "Lots" },
+  "txt_Enviar_en": { "message": "Send in" },
+  "txt_tiempo_entre_lotes": { "message": "Time between batches" },
+  "txt_prev_mensaje": { "message": "Preview message" },
+  "txt_descargar": { "message": "Download" },
+  "txt_FINALIZAR": { "message": "FINALIZE" },
+  "txt_Plantillas": { "message": "Templates" },
+  "txt_Agregar_plantilla": { "message": "Add template" },
+  "txt_Editar_plantilla": { "message": "Edit template" },
+  "txt_Adjuntar": { "message": "Attach" },
+  "txt_Sinonimos_y_etiquetas": { "message": "Synonyms and labels" },
+  "txt_Palabra_personalizada": { "message": "Custom Word" },
+  "txt_Texto_como_subtitulo_de_adjunto": {
+    "message": "Text as an attachment subtitle"
+  },
+  "txt_Guardar_como_plantilla": { "message": "Save as template" },
+  "txt_Foto_o_Video": { "message": "Photo / Video" },
+  "txt_Documentos": { "message": "Document / s" },
+  "txt_ya_adquiriste_PRO": { "message": "you already purchased PRO" },
+  "txt_salir": { "message": "Exit" },
+  "txt_Cancelar": { "message": "Cancel" },
+  "txt_Guardar": { "message": "Save" },
+  "txt_Seguro": { "message": "Sure" },
+  "txt_Si": { "message": "Yes" },
+  "txt_No": { "message": "No" },
+  "txt_Descargar_reporte": { "message": "Download report" },
+  "txt_ingresar_mensaje": { "message": "Enter message" },
+  "txt_palabra_aleatoria": { "message": "Random word" },
+  "txt_numero_aleatorio": { "message": "Random number" },
+  "txt_Resultado": { "message": "Result" },
+  "txt_explicacion_sinonimos": {
+    "message": "You can generate your own variables or random words by entering them in each field resulting in Example: <br> [[Hello | How are you | Good morning]] <br> The system will select one of them and it will be the one sent in the message. "
+  },
+
+  "txt_mensaje_con_variaciones_no_pro": {
+    "message": "This message is personalized with variations."
+  },
+  "txt_mensaje_con_variaciones_no_pro2": {
+    "message": "Customize messages is only in PRO version."
+  },
+  "txt_validando_foto_perfil": {
+    "message": "Validating WhatsApp and looking for profile picture, Reopen the plugin."
+  },
+  "txt_Intentas_adjuntar_archivos": {
+    "message": "You are trying to attach files"
+  },
+  "txt_El_envio_adjuntos": {
+    "message": "Sending attachments is only in PRO version"
+  },
+  "txt_Filtrar_whatsapp": {
+    "message": "Filter whatsapp is only in the PRO version"
+  },
+  "txt_Descargar_reporte_PRO": {
+    "message": "Download report is only available in PRO version"
+  },
+  "txt_Poner_tiempo_reduce_baneo": {
+    "message": "Putting time between messages reduces the whatsapp ban to 350%"
+  },
+  "txt_solo_esta_disponible_version_PRO": {
+    "message": "only available in PRO version"
+  },
+  "txt_El_procesamiento_por_lotes_establece_automaticamente_mensaje": {
+    "message": "The batch processing automatically sets the message time interval"
+  },
+  "txt_Pausar_envio_mensajes": {
+    "message": "Pause sending messages. You can continue later"
+  },
+  "txt_Las_plantillas_estan_PRO": {
+    "message": "The templates are available in the PRO version"
+  },
+  "txt_Seleccionar_filas_pro": {
+    "message": "Select rows is only available in PRO version"
+  },
+  "txt_Usaste_todos_los_mensajes_gratis": {
+    "message": "You used all the messages for free, go PRO and continue"
+  },
+  "txt_Estas_tratando_enviar_mas_mensajes_permitidos": {
+    "message": "You are trying to send more messages than allowed, go PRO"
+  },
+  "txt_Su_version_PRO_has_expirado": {
+    "message": "Your PRO version has expired"
+  },
+  "txt_o": { "message": "or" },
+  "txt_No_recordar_de_nuevo": { "message": "Do not remember again" },
+  "txt_aaaaaaaaaaa": { "message": "aaaaaaaaaaaaaaaaaaaaaa" },
+
+  "txt_Aplicar_licencia": { "message": "Apply license" },
+  "txt_Aplicando": { "message": "Applying" },
+  "txt_Licencia_no_encontrada": { "message": "License not found" },
+  "txt_Error_de_internet": { "message": "Internet error" },
+
+  "txt_Activar_BOT": { "message": "Activate BOT" },
+  "txt_Coincidir_con": { "message": "Match with" },
+  "txt_Incluido_en_frase": { "message": "Included in sentence" },
+  "txt_Frase_exacta": { "message": "Exact phrase" },
+  "txt_Coincidir_texto_que": { "message": "Match text that" },
+  "txt_Coincidencia_exacta": { "message": "Exact match" },
+  "txt_Palabra_similar": { "message": "Similar word" },
+  "txt_Mensaje_por_defecto": { "message": "Default message" },
+  "txt_Agregar_Palabra_Respuesta": { "message": "Add Word / Answer" },
+  "txt_Palabra": { "message": "Word" },
+  "txt_Coincidencia": { "message": "Coincidencia" },
+  "txt_Dentro_de_oracion": { "message": "It is inside the sentence" },
+  "txt_Respuesta": { "message": "Response" },
+  "txt_Agregar_ahora": { "message": "Add now" },
+  "txt_Mapa_de_respuestas": { "message": "Response map" },
+  "txt_Subir_respuestas": { "message": "Upload response / s" },
+  "txt_Descargar_respuestas": { "message": "Download response / s" },
+
+  "txt_Exportar_Grupos": { "message": "Export Groups" },
+  "txt_Todos_los_contactos": { "message": "All contacts" },
+  "txt_Todos_los_Chats_de_contactos": { "message": "All Contact Chats" },
+  "txt_Grupos": { "message": "Groups" },
+  "txt_Etiquetas": { "message": "Label / s" },
+  "txt_Listas_de_difusiones": { "message": "Lists of broadcasts" },
+  "txt_Exportar_a_Excel": { "message": "Export to Excel" },
+  "txt_Enviar_mensaje_de_difusion": {
+    "message": "Send broadcast message (go to messaging)"
+  },
+
+  "txt_Utilidades": { "message": "Utilities" },
+  "txt_Privacidad_opciones_especiales": {
+    "message": "Privacy and special options"
+  },
+  "txt_Distorcionar_mensajes_recientes": {
+    "message": "Distort recent messages"
+  },
+  "txt_Distorcionar_nombres_contactos": { "message": "Distort contact names" },
+  "txt_Distorcionar_fotos_perfil": { "message": "Distort profile photos" },
+  "txt_Distorcionar_chats": { "message": "Distort chats" },
+  "txt_USE_CON_PRECAUCION": {
+    "message": "USE WITH CAUTION \" WhatsApp does not like these options \""
+  },
+  "txt_Escuchar_audios_check_azul": {
+    "message": "Listen to audios without warning with blue check"
+  },
+  "txt_modo_invisible": { "message": "Hide \" online \" (Invisible mode)" },
+  "txt_Restaurar_mensajes_borrados": { "message": "Restore deleted messages" },
+  "txt_Adicionales": { "message": "Additional" },
+  "txt_Poner_mensajes_sin_leer_inicio": {
+    "message": "Put unread messages at startup"
+  },
+  "txt_Mostrar_punto_verde": {
+    "message": "Show green dot if they are connected"
+  },
+  "txt_Abrir_WhatsApp_Web_para_iniciar": {
+    "message": "Open WhatsApp Web to start"
+  }
+}
